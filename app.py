@@ -5,7 +5,8 @@ from random import randint
 
 # Initialize the pygame
 pygame.init()
-FPS = 120
+FPS = 60
+#mudanca durante a aula para teste!
 CLOCK = pygame.time.Clock()
 
 
